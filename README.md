@@ -25,7 +25,7 @@ Goal:
 ## ERD
 https://miro.com/app/board/uXjVOF93Xdg=/?invite_link_id=681946647112
 
-![BioInv_ERD](https://user-images.githubusercontent.com/43145834/158244335-1e61d254-c0e8-49aa-8e7c-d4597e0205fd.png)
+![BioInv ERD](https://user-images.githubusercontent.com/43145834/158255195-e9c9bd1c-4dba-44ac-bfb0-fe1c6bd9c070.png)
 
 ## Wireframes 
 ![BioInv Wireframe](https://user-images.githubusercontent.com/43145834/158244343-9340251c-e34e-4592-b4cd-acfe13b43ac2.png)
