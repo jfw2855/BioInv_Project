@@ -25,9 +25,9 @@ Goal:
 
 https://miro.com/app/board/uXjVOF93Xdg=/?invite_link_id=681946647112
 
-[BioInv ERD.pdf](https://github.com/jfw2855/BioInv_Project/files/8247212/BioInv.ERD.pdf)
+![BioInv ERD](https://user-images.githubusercontent.com/43145834/158229309-3c92adb7-8516-47da-b343-0307d572338b.png)
 
-[BioInv Wireframe.pdf](https://github.com/jfw2855/BioInv_Project/files/8247213/BioInv.Wireframe.pdf)
+![BioInv Wireframe](https://user-images.githubusercontent.com/43145834/158229340-121254ae-886e-4825-b6f0-492e3253b880.png)
 
 
 ## Stretch goals
