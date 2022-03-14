@@ -17,8 +17,9 @@ BioInv is an inventory tracking system for biological samples.
 
 
 Goal:
-- Build an sample inventory tracking system that allows users from an orgnization to manage laboratory samples.
-- An authorized user will have the capability to add,edit, and remove samples. 
+- Build an sample inventory tracking system that allows users from an orgnization to manage laboratory samples
+- An authorized user will have the capability to add,edit, and remove samples
+- Prevents users from delete others samples or containers if not authorized
 - The application will have the capability to have multiple storage locations (freezers, ambient, cold room)
 
 ## ERD/Wireframes
