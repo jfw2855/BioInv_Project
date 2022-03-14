@@ -1,6 +1,6 @@
 
 # BioInv_Project
-BioInv is an inventory tracking system for biological samples.
+BioInv is an inventory tracking system for biological samples. Users will have the ability to add, update, or delete samples their samples.
 #### Full-Stack CRUD App created during GA SEI program (Project 2)
 
 ## Tech Stack
@@ -16,11 +16,13 @@ BioInv is an inventory tracking system for biological samples.
 - This API will verify a user's email 
 
 
-Goal:
+MVP Goal:
 - Build an sample inventory tracking system that allows users from an orgnization to manage laboratory samples
 - An authorized user will have the capability to add,edit, and remove samples
 - Prevents users from delete others samples or containers if not authorized
-- The application will have the capability to have multiple storage locations (freezers, ambient, cold room)
+- Have one storage location that will house all sample boxes
+
+
 
 ## ERD
 https://miro.com/app/board/uXjVOF93Xdg=/?invite_link_id=681946647112
@@ -36,4 +38,6 @@ https://miro.com/app/board/uXjVOF93Xdg=/?invite_link_id=681946647112
 
 ## Stretch goals
 - create a log section
-- add a feature to save experiments to samples
+- have a note section for the edited/deleted samples to log a message for reason for modifying sample (commented log section)
+- The application will have the capability to have multiple storage locations (freezers, ambient, cold room)
+- add a feature to upload/save experiments and have them linked to samples
